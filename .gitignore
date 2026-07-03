@@ -1,0 +1,6 @@
+.env
+secure.py
+
+# to ignore all the files from the temp folder except the important.log file
+temp/*
+!temp/important.log
